@@ -1,0 +1,16 @@
+/* gameElements class style formatting referenced in index.html */
+.gameElements {
+    width: 650px;
+    border-radius: 30px;
+    border: 10px solid rgb(230, 135, 47);
+    background-color: rgb(27, 98, 14);
+    padding: 5px;
+    font-weight: bolder;
+    color: rgb(244, 236, 236);
+}
+
+
+strong {
+    color: rgb(99, 213, 233);
+}
+
